@@ -75,3 +75,8 @@ body {
     grid-area: footer;
     text-align: center;
 }
+
+.product-grid button {
+    background-color: blue;
+    color: white;
+}
